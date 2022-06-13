@@ -66,5 +66,5 @@
 }
 
 .todo-container ul li i:hover {
-    color: black;
+    color: red;
 }
