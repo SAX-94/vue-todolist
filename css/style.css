@@ -24,7 +24,7 @@
 .new-todo button {
     padding: 10px 20px;
     border-radius: 10px;
-    border-width: 1px;
+    border-width: 2px;
     margin-right: 20px;
     cursor: pointer;
     background-color: #ffedb1;
